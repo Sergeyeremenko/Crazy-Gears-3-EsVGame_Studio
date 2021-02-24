@@ -1,0 +1,1832 @@
+fileFormatVersion: 2
+guid: e7f2d46e5b6d96f49853671398108116
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3023833754490252874
+    second: New Materials_0
+  - first:
+      213: 2669671308408953743
+    second: New Materials_1
+  - first:
+      213: -5412401948807392803
+    second: New Materials_2
+  - first:
+      213: 8486670319566132069
+    second: New Materials_3
+  - first:
+      213: -5501102827416600976
+    second: New Materials_4
+  - first:
+      213: -1070259350523197412
+    second: New Materials_5
+  - first:
+      213: -5058132057058195683
+    second: New Materials_6
+  - first:
+      213: -7588451244229396209
+    second: New Materials_7
+  - first:
+      213: -443601512656687446
+    second: New Materials_8
+  - first:
+      213: -9093817963414109519
+    second: New Materials_9
+  - first:
+      213: 7430399705758948953
+    second: New Materials_10
+  - first:
+      213: 4202285035904111524
+    second: New Materials_11
+  - first:
+      213: -2831663347235274140
+    second: New Materials_12
+  - first:
+      213: 7000379883609480338
+    second: New Materials_13
+  - first:
+      213: -520807112770101935
+    second: New Materials_14
+  - first:
+      213: -7460977298001658346
+    second: New Materials_15
+  - first:
+      213: -5462633899156438018
+    second: New Materials_16
+  - first:
+      213: -673685092595182169
+    second: New Materials_17
+  - first:
+      213: -7601779187230289901
+    second: New Materials_18
+  - first:
+      213: -8528396859343445587
+    second: New Materials_19
+  - first:
+      213: -6977860813065059960
+    second: New Materials_20
+  - first:
+      213: 4279669409699362367
+    second: New Materials_21
+  - first:
+      213: -834803577992900539
+    second: New Materials_22
+  - first:
+      213: 5975146093557210138
+    second: New Materials_23
+  - first:
+      213: -6039250734746600160
+    second: New Materials_24
+  - first:
+      213: -7076646499967821423
+    second: New Materials_25
+  - first:
+      213: 7264007407354158039
+    second: New Materials_26
+  - first:
+      213: 8202620826974771873
+    second: New Materials_27
+  - first:
+      213: -1887183802030052720
+    second: New Materials_28
+  - first:
+      213: -4394272061312154253
+    second: New Materials_29
+  - first:
+      213: -3534465241063651137
+    second: New Materials_30
+  - first:
+      213: -2009961766375976647
+    second: New Materials_31
+  - first:
+      213: -1596078062398876871
+    second: New Materials_32
+  - first:
+      213: -2281549779729051812
+    second: New Materials_33
+  - first:
+      213: 6214074916582295791
+    second: New Materials_34
+  - first:
+      213: 1489712331598354717
+    second: New Materials_35
+  - first:
+      213: 7865145581137072592
+    second: New Materials_36
+  - first:
+      213: -5692548640062151533
+    second: New Materials_37
+  - first:
+      213: -4385198179810654522
+    second: New Materials_38
+  - first:
+      213: -188464276307593995
+    second: New Materials_39
+  - first:
+      213: 8209678755270647861
+    second: New Materials_40
+  - first:
+      213: 8775956429938168508
+    second: New Materials_41
+  - first:
+      213: -5091426762741937661
+    second: New Materials_42
+  - first:
+      213: 2204173859221779755
+    second: New Materials_43
+  - first:
+      213: 1275220049735648297
+    second: New Materials_44
+  - first:
+      213: -178399215869578548
+    second: New Materials_45
+  - first:
+      213: -8863389622363387780
+    second: New Materials_46
+  - first:
+      213: 6389779251931617086
+    second: New Materials_47
+  - first:
+      213: -6373537831943038265
+    second: New Materials_48
+  - first:
+      213: -3158123462665886840
+    second: New Materials_49
+  - first:
+      213: -2369298794888702214
+    second: New Materials_50
+  - first:
+      213: 5753176029409276165
+    second: New Materials_51
+  - first:
+      213: -2410840842387075773
+    second: New Materials_52
+  - first:
+      213: 5578335878019629534
+    second: New Materials_53
+  - first:
+      213: -1932345900179210318
+    second: New Materials_54
+  - first:
+      213: 2764821709223133357
+    second: New Materials_55
+  - first:
+      213: -6621028783906251097
+    second: New Materials_56
+  - first:
+      213: 970110796475670573
+    second: New Materials_57
+  - first:
+      213: 2799385693039208042
+    second: New Materials_58
+  - first:
+      213: 402927334712978190
+    second: New Materials_59
+  - first:
+      213: 2373183458223712105
+    second: New Materials_60
+  - first:
+      213: -5233507304691304910
+    second: New Materials_61
+  - first:
+      213: -4844858092753977472
+    second: New Materials_62
+  - first:
+      213: -4476552773210565818
+    second: New Materials_63
+  - first:
+      213: -6695823105581091563
+    second: New Materials_64
+  - first:
+      213: -8961390456512244971
+    second: New Materials_65
+  - first:
+      213: -8148416634615227086
+    second: New Materials_66
+  - first:
+      213: -1560032189836018262
+    second: New Materials_67
+  - first:
+      213: -4458552166983831024
+    second: New Materials_68
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Materials_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3226
+        width: 855
+        height: 1131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfece93ac30aaf44936cec399998ec1
+      internalID: 3023833754490252874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3491
+        width: 891
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceadfdc409ce7494eb23ef0e624df4d4
+      internalID: 2669671308408953743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_2
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3566
+        width: 655
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8406982c89018f84caf7f4005820aac5
+      internalID: -5412401948807392803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_3
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 3592
+        width: 767
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e0f38622e05d4d952bcae3188d8a9
+      internalID: 8486670319566132069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_4
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3914
+        width: 1723
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b018443ef59384fac8a4d54d5b1375
+      internalID: -5501102827416600976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_5
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 3929
+        width: 228
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4c1c2426568fa45a0fa6198536cb72
+      internalID: -1070259350523197412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_6
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 3925
+        width: 217
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b726d2ca14d857b48a080da755cc1441
+      internalID: -5058132057058195683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_7
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 3929
+        width: 240
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27a09a2c1f63774eb1a753185a6b59a
+      internalID: -7588451244229396209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_8
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 3925
+        width: 243
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e433d0c3908ba1b489fab40700542a0f
+      internalID: -443601512656687446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_9
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 3932
+        width: 304
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6033f28c8b14448a4a4eed6b96603
+      internalID: -9093817963414109519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_10
+      rect:
+        serializedVersion: 2
+        x: 5809
+        y: 3667
+        width: 703
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a9ca6300c263947915b7d6673c31e5
+      internalID: 7430399705758948953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_11
+      rect:
+        serializedVersion: 2
+        x: 6819
+        y: 3741
+        width: 750
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a6074b8fc22341accc2e4c1f69d1e
+      internalID: 4202285035904111524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_12
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 3125
+        width: 616
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b0c8409cc17d54d8e883d779b1958e
+      internalID: -2831663347235274140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_13
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3061
+        width: 621
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837080140419635439b5f8dbe0e6d537
+      internalID: 7000379883609480338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_14
+      rect:
+        serializedVersion: 2
+        x: 5846
+        y: 2989
+        width: 629
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9ca68354e59d54f875b4a439a37a24
+      internalID: -520807112770101935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_15
+      rect:
+        serializedVersion: 2
+        x: 6804
+        y: 2772
+        width: 779
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeaf48af20eb5d4abf050d41216f95a
+      internalID: -7460977298001658346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2662
+        width: 2541
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe41fd81434d8648bddac36a5cdf330
+      internalID: -5462633899156438018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_17
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 2678
+        width: 243
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab040dc68626a547a2ad94ec3ebb493
+      internalID: -673685092595182169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_18
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 3015
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b503e5e2ec429469e40995ba7b2137
+      internalID: -7601779187230289901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_19
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 2570
+        width: 629
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072b2efc54537b645844abc37392a024
+      internalID: -8528396859343445587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2678
+        width: 243
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ac3b091d2701340ae42925bc663e44
+      internalID: -6977860813065059960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2678
+        width: 250
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa72c4e99042e1449228a3bbb77c934
+      internalID: 4279669409699362367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_22
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2675
+        width: 243
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a39500dd176efc4187070146a4dbc7d
+      internalID: -834803577992900539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_23
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2675
+        width: 82
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3131f14c8ce8745809d5830eb5b978
+      internalID: 5975146093557210138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_24
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2690
+        width: 475
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b1d317055a8a4e8acb872e94ef091
+      internalID: -6039250734746600160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_25
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 2675
+        width: 228
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3543fb45b84d458c9bc1ab410d2a5
+      internalID: -7076646499967821423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_26
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 1952
+        width: 431
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553bab8474da52e4fae28704f51ead68
+      internalID: 7264007407354158039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_27
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 1852
+        width: 430
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646dea80bcfc5f41aea110f7a975584
+      internalID: 8202620826974771873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2010
+        width: 1514
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a24ac7695cb8ff449888e64586e4cb9
+      internalID: -1887183802030052720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_29
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2027
+        width: 228
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b0a7eb2eed941438832b63e516b2bc
+      internalID: -4394272061312154253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_30
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2023
+        width: 206
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a665e4b9b8277344e97b744123080184
+      internalID: -3534465241063651137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_31
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2027
+        width: 250
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c81e2c027aba348be604638a6bb594
+      internalID: -2009961766375976647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_32
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 2020
+        width: 101
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28388c9fc2a8c844daf7d4828e311afa
+      internalID: -1596078062398876871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_33
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2027
+        width: 243
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca058ce1ea5ece47a6e63e07dafe713
+      internalID: -2281549779729051812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_34
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1877
+        width: 629
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8db84449543274aa915e15b1a41668
+      internalID: 6214074916582295791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_35
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 1836
+        width: 628
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e2241681595fa44ab70051aa716e65
+      internalID: 1489712331598354717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_36
+      rect:
+        serializedVersion: 2
+        x: 5883
+        y: 2106
+        width: 629
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358367a4ab5cd86419fd8b271010e27a
+      internalID: 7865145581137072592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_37
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 1883
+        width: 696
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26429f8efc6df6d478d31a9ba38267f7
+      internalID: -5692548640062151533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 1426
+        height: 1426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8445ed95ebce0349b000ce896b7ec59
+      internalID: -4385198179810654522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_39
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 204
+        width: 1426
+        height: 1426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b51eddd555e9045b0498b1e392400e
+      internalID: -188464276307593995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_40
+      rect:
+        serializedVersion: 2
+        x: 4356
+        y: 624
+        width: 430
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d446cea3d96b58745bcd5689732f9213
+      internalID: 8209678755270647861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_41
+      rect:
+        serializedVersion: 2
+        x: 5041
+        y: 653
+        width: 434
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2f704c6068183479a6024466490af5
+      internalID: 8775956429938168508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_42
+      rect:
+        serializedVersion: 2
+        x: 5902
+        y: 728
+        width: 1756
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325a835512b61eb43b5a7686f4d73038
+      internalID: -5091426762741937661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_43
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 747
+        width: 139
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310de071ef5c904ba24d49b64a7dd55
+      internalID: 2204173859221779755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_44
+      rect:
+        serializedVersion: 2
+        x: 6288
+        y: 747
+        width: 247
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d27d6eddd1807049a2463d27dedc5c5
+      internalID: 1275220049735648297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_45
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 747
+        width: 198
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a29e746696d7ef49b0ea43759cae86e
+      internalID: -178399215869578548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_46
+      rect:
+        serializedVersion: 2
+        x: 6868
+        y: 747
+        width: 138
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be22c3dbb6338504db2383757cef9ed7
+      internalID: -8863389622363387780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_47
+      rect:
+        serializedVersion: 2
+        x: 7021
+        y: 747
+        width: 127
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1840b548a4fb94dbb0fb30e7c58658
+      internalID: 6389779251931617086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_48
+      rect:
+        serializedVersion: 2
+        x: 7171
+        y: 747
+        width: 146
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0914e9fadf698c4da3e340b7ee6bf1b
+      internalID: -6373537831943038265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_49
+      rect:
+        serializedVersion: 2
+        x: 7343
+        y: 747
+        width: 146
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad055958b9d5c4c42ab61455c28b8c23
+      internalID: -3158123462665886840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_50
+      rect:
+        serializedVersion: 2
+        x: 7478
+        y: 751
+        width: 183
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0b2e9000cd64c49b7db16f20d4219f
+      internalID: -2369298794888702214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_51
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 45
+        width: 3652
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba883a4d72031784985ad701108524c1
+      internalID: 5753176029409276165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_52
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 152
+        width: 164
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced7ad53067e974ab34e9695582ee7d
+      internalID: -2410840842387075773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_53
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 144
+        width: 142
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477b37fab28124a42af7fca1e78c2562
+      internalID: 5578335878019629534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_54
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 148
+        width: 71
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f7be7201867754c80303aa73625900
+      internalID: -1932345900179210318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_55
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 62
+        width: 183
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b1aa4ecf81aef4e8603ff6c66f6c4f
+      internalID: 2764821709223133357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_56
+      rect:
+        serializedVersion: 2
+        x: 4910
+        y: 118
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165a05eea225ae247be7aa2a94f59549
+      internalID: -6621028783906251097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_57
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 152
+        width: 166
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002cd0ec84260b74088c3599845c5a17
+      internalID: 970110796475670573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_58
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 152
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef6735bc12539c4c892879a18f2da0d
+      internalID: 2799385693039208042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_59
+      rect:
+        serializedVersion: 2
+        x: 5483
+        y: 47
+        width: 209
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4939ac984b6bd35428432516a67b549e
+      internalID: 402927334712978190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_60
+      rect:
+        serializedVersion: 2
+        x: 5838
+        y: 152
+        width: 169
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae60db49c0da25a47b5915b4905fe062
+      internalID: 2373183458223712105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_61
+      rect:
+        serializedVersion: 2
+        x: 6003
+        y: 155
+        width: 198
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e11fce520600094dadb7272d620becf
+      internalID: -5233507304691304910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_62
+      rect:
+        serializedVersion: 2
+        x: 6213
+        y: 152
+        width: 157
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee508226d1495ed45b4e7824d56d0bdb
+      internalID: -4844858092753977472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_63
+      rect:
+        serializedVersion: 2
+        x: 6506
+        y: 152
+        width: 141
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cbef20fe1e88a41b5c1c5f269a2133
+      internalID: -4476552773210565818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_64
+      rect:
+        serializedVersion: 2
+        x: 6662
+        y: 152
+        width: 146
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e14653a85854af48a7fd4ae222ce460
+      internalID: -6695823105581091563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_65
+      rect:
+        serializedVersion: 2
+        x: 6842
+        y: 0
+        width: 542
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ae830674011b45bcc0d825cda0745
+      internalID: -8961390456512244971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_66
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 152
+        width: 153
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a21527c8eac5499cb59dac1efc562
+      internalID: -8148416634615227086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_67
+      rect:
+        serializedVersion: 2
+        x: 7175
+        y: 152
+        width: 153
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec7ba84ed0b6fd45b649c5ebd1ac52c
+      internalID: -1560032189836018262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Materials_68
+      rect:
+        serializedVersion: 2
+        x: 7347
+        y: 159
+        width: 213
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50120064560e1d0418c513e1dd60c686
+      internalID: -4458552166983831024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
